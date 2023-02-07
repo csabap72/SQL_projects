@@ -1,4 +1,4 @@
--- demo sql scripts dor the retail sales data analysis
+-- demo sql scripts for the retail sales data analysis
 -- version 0.1 07/02/2023
 -- DISCLAIMER: this is a demo script, no guarantee whatsoever is provided as for its usability, correctness, effectiveness, best practice etc. You are using/studying/applying it entirely at your own risk (please see licence)
 
