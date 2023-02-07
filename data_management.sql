@@ -1,4 +1,5 @@
 -- demo sql scripts for the retail sales data analysis
+-- data can be found at: https://www.kaggle.com/datasets/manjeetsingh/retaildataset?resource=download
 -- version 0.1 07/02/2023
 -- DISCLAIMER: this is a demo script, no guarantee whatsoever is provided as for its usability, correctness, effectiveness, best practice etc. You are using/studying/applying it entirely at your own risk (please see licence)
 
